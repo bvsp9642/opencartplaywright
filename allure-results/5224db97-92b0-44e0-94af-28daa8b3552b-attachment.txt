@@ -1,0 +1,2 @@
+locator my account locator('h2:nth-child(1)')
+my account page is visible

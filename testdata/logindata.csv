@@ -1,0 +1,3 @@
+testName, email, password, expected
+Valid login, bvsp@aaa.com, @lt12345, success
+Invalid login, cabc@abc.com, sdssds, failure

@@ -1,0 +1,17 @@
+[
+{
+"testName":"Valid Login",
+"email":"bvsp@aaa.com",
+"password":"@lt12345",
+"expected":"success"
+},
+{
+"testName":"inValid Login",
+"email":"bvspdd@bvsp.com",
+"password":"sssdd",
+"expected":"failure"
+
+}
+
+
+]
